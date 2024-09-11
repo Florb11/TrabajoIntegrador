@@ -4,7 +4,7 @@ import java.time.LocalDate;
 public class Main {
     public static void main(String[] args) {
 
-        String nombre= validarNombre("Ingrese el nombre del empleado");
+        String nombre= validarNombre("Ingrese el nombre del empleado!");
         LocalDate fechaInicio = LocalDate.parse(JOptionPane.showInputDialog("Ingrese la fecha de inicio"));
         double salarioBase= Double.parseDouble(validarSalario("Ingrese el salario"));
 

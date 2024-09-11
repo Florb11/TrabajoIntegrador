@@ -12,6 +12,7 @@ public class Trabajador {
         this.nombre=nombre;
         this.fechaInicio=fechaInicio;
         this.salarioBase=salarioBase;
+
     }
     // get y set
 
