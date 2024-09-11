@@ -19,8 +19,10 @@ Implementa un método llamado calcularIndemnizacionDespido(int salarioBase) que 
 Crea la clase Trabajador con los atributos necesarios y los métodos especificados.
 Utiliza la clase LocalDate de Java para representar la fecha de inicio de trabajo de un trabajador.
 Asegúrate de manejar adecuadamente los tipos de datos y los cálculos necesarios en cada método.
+
+<img src="diagrama.png" alt="">
   
-    <img src="diagrama.png" alt="">
+    
     
     
 </body>
